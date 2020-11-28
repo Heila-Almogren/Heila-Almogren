@@ -1,6 +1,6 @@
-### Hi there 👾
+### Hi there! 👾
 
-#### I'm Heila (AKA Pizza, Dijkstra.. etc), I enjoy web development (especially backend developemnt) and also interested in operating systems, computer networks and architecture 🛰️
+#### I'm Heila (AKA Pizza, Dijkstra.. etc), I enjoy web development (especially backend developemnt) and also interested in operating systems, computer networks and architecture 🛰️ I am ..
 
 
 - A senior software engineering student at King Saud University 👩🏻‍💻
@@ -8,7 +8,7 @@
 - Looking for new chances work on projects that help me grow and learn 💡
 
 
-### ⭐ Current projects:
+### ⭐  Current projects:
 
 #### [Yaqith (our graduation project)](https://github.com/Heila-Almogren/Yaqith)  🧠:
 We're working on a BCI system to make the room environment more work-friendly. If you are a BCI expert and you'd like to provide us with some advice and consulataion, your help is more than welcome!
