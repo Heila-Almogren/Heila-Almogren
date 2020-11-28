@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👾
 
-<!--
-**Heila-Almogren/Heila-Almogren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Heila (AKA Pizza, Dijkstra.. etc), I enjoy web development (especially backend developemnt) and also interested in operating systems, computer networks and architecture 🛰️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A senior software engineering student at King Saud University 👩🏻‍💻
+- Currently learning and impriving my skills in fullstack development 🧗🏻‍♂️
+- Looking for new chances work on projects that help me grow and learn 💡
+
+
+### ⭐ Current projects:
+
+#### [Yaqith (our graduation project)](https://github.com/Heila-Almogren/Yaqith)  🧠:
+We're working on a BCI system to make the room environment more work-friendly. If you are a BCI expert and you'd like to provide us with some advice and consulataion, your help is more than welcome!
+      
+      
+#### [Co-Code](https://github.com/CocodeApp)  💻:
+Our redicilously cool app that aims to help swe/cs/it students, self-taught programmers and designers around the world to work and collaborate on projects to improve their coding and soft skills ⚒️
