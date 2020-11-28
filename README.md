@@ -15,4 +15,4 @@ We're working on a BCI system to make the room environment more work-friendly. I
       
       
 #### [Co-Code](https://github.com/CocodeApp)  💻:
-Our redicilously cool app that aims to help swe/cs/it students, self-taught programmers and designers around the world to work and collaborate on projects to improve their coding and soft skills ⚒️
+Our ridiculously cool app that aims to help swe/cs/it students, self-taught programmers and designers around the world to work and collaborate on projects to improve their coding and soft skills ⚒️
