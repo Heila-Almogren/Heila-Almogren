@@ -4,7 +4,7 @@
 
 
 - A senior software engineering student at King Saud University 👩🏻‍💻
-- Currently learning and impriving my skills in fullstack development 🧗🏻‍♂️
+- Currently learning and improving my skills in fullstack development 🧗🏻‍♂️
 - Looking for new chances work on projects that help me grow and learn 💡
 
 
